@@ -6,8 +6,8 @@
 
 ---
 
-### 🚀 Tentang Saya
-- 👨‍💻 Lagi belajar **Laravel, PHP, dan Web Development**  
+### Tentang Saya
+- Belajar **Laravel, PHP, dan Web Development, flutter dikit hehe**  
 - 🎯 Target: jadi dev full-stack yang bisa bikin app kece  
 - 🌱 Senang ngulik dan eksperimen project baru  
 
